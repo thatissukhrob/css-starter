@@ -46,3 +46,13 @@ img {
 .main-content {
   flex-grow: 1;
 }
+
+
+.site-skill-field {
+  display: grid;
+  grid-template-columns: auto;
+}
+
+.site-skill-item {
+  border: 2px solid tomato;
+}
